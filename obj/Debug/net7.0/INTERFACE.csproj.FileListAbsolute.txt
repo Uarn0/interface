@@ -1,0 +1,14 @@
+C:\vsprog\lessons2\INTERFACE\bin\Debug\net7.0\INTERFACE.exe
+C:\vsprog\lessons2\INTERFACE\bin\Debug\net7.0\INTERFACE.deps.json
+C:\vsprog\lessons2\INTERFACE\bin\Debug\net7.0\INTERFACE.runtimeconfig.json
+C:\vsprog\lessons2\INTERFACE\bin\Debug\net7.0\INTERFACE.dll
+C:\vsprog\lessons2\INTERFACE\bin\Debug\net7.0\INTERFACE.pdb
+C:\vsprog\lessons2\INTERFACE\obj\Debug\net7.0\INTERFACE.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsprog\lessons2\INTERFACE\obj\Debug\net7.0\INTERFACE.AssemblyInfoInputs.cache
+C:\vsprog\lessons2\INTERFACE\obj\Debug\net7.0\INTERFACE.AssemblyInfo.cs
+C:\vsprog\lessons2\INTERFACE\obj\Debug\net7.0\INTERFACE.csproj.CoreCompileInputs.cache
+C:\vsprog\lessons2\INTERFACE\obj\Debug\net7.0\INTERFACE.dll
+C:\vsprog\lessons2\INTERFACE\obj\Debug\net7.0\refint\INTERFACE.dll
+C:\vsprog\lessons2\INTERFACE\obj\Debug\net7.0\INTERFACE.pdb
+C:\vsprog\lessons2\INTERFACE\obj\Debug\net7.0\INTERFACE.genruntimeconfig.cache
+C:\vsprog\lessons2\INTERFACE\obj\Debug\net7.0\ref\INTERFACE.dll
